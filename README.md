@@ -6,3 +6,4 @@ Use reat time machine learning to alow a system to explore its environment, when
 ## System varibles
 - Explore/Learning rate
 - Scaredy/Retraction rate
+- Adptivness rate, weight of new data to effect the current model of reality
